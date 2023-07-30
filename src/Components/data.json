@@ -1,0 +1,632 @@
+[
+  {
+    "match-no": 1,
+    "date": "5/10/2023 14:00",
+    "location": "Narendra Modi Stadium",
+    "home": "England",
+    "away": "New Zealand"
+  },
+  {
+    "match-no": 2,
+    "date": "5/10/2023 14:00",
+    "location": "Narendra Modi Stadium",
+    "home": "England",
+    "away": "New Zealand"
+  },
+  {
+    "match-no": 3,
+    "date": "6/10/2023 14:00",
+    "location": "Rajiv Gandhi International Stadium",
+    "home": "Pakistan",
+    "away": "Netherlands"
+  },
+  {
+    "match-no": 4,
+    "date": "6/10/2023 14:00",
+    "location": "Rajiv Gandhi International Stadium",
+    "home": "Pakistan",
+    "away": "Netherlands"
+  },
+  {
+    "match-no": 5,
+    "date": "7/10/2023 10:30",
+    "location": "Himachal Pradesh Cricket Association Stadium",
+    "home": "Bangladesh",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 6,
+    "date": "7/10/2023 10:30",
+    "location": "Himachal Pradesh Cricket Association Stadium",
+    "home": "Bangladesh",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 7,
+    "date": "7/10/2023 14:00",
+    "location": "Arun Jaitley Stadium",
+    "home": "South Africa",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 8,
+    "date": "7/10/2023 14:00",
+    "location": "Arun Jaitley Stadium",
+    "home": "South Africa",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 9,
+    "date": "8/10/2023 14:00",
+    "location": "MA Chidambaram Stadium",
+    "home": "India",
+    "away": "Australia"
+  },
+  {
+    "match-no": 10,
+    "date": "8/10/2023 14:00",
+    "location": "MA Chidambaram Stadium",
+    "home": "India",
+    "away": "Australia"
+  },
+  {
+    "match-no": 11,
+    "date": "9/10/2023 14:00",
+    "location": "Rajiv Gandhi International Stadium",
+    "home": "New Zealand",
+    "away": "Netherlands"
+  },
+  {
+    "match-no": 12,
+    "date": "9/10/2023 14:00",
+    "location": "Rajiv Gandhi International Stadium",
+    "home": "New Zealand",
+    "away": "Netherlands"
+  },
+  {
+    "match-no": 13,
+    "date": "10/10/2023 14:00",
+    "location": "Himachal Pradesh Cricket Association Stadium",
+    "home": "England",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 14,
+    "date": "10/10/2023 14:00",
+    "location": "Himachal Pradesh Cricket Association Stadium",
+    "home": "England",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 15,
+    "date": "11/10/2023 14:00",
+    "location": "Arun Jaitley Stadium",
+    "home": "India",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 16,
+    "date": "11/10/2023 14:00",
+    "location": "Arun Jaitley Stadium",
+    "home": "India",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 17,
+    "date": "12/10/2023 14:00",
+    "location": "Rajiv Gandhi International Stadium",
+    "home": "Pakistan",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 18,
+    "date": "12/10/2023 14:00",
+    "location": "Rajiv Gandhi International Stadium",
+    "home": "Pakistan",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 19,
+    "date": "13/10/2023 14:00",
+    "location": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "home": "Australia",
+    "away": "South Africa"
+  },
+  {
+    "match-no": 20,
+    "date": "13/10/2023 14:00",
+    "location": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "home": "Australia",
+    "away": "South Africa"
+  },
+  {
+    "match-no": 21,
+    "date": "14/10/2023 10:30",
+    "location": "MA Chidambaram Stadium",
+    "home": "New Zealand",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 22,
+    "date": "14/10/2023 10:30",
+    "location": "MA Chidambaram Stadium",
+    "home": "New Zealand",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 23,
+    "date": "14/10/2023 14:00",
+    "location": "Arun Jaitley Stadium",
+    "home": "England",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 24,
+    "date": "14/10/2023 14:00",
+    "location": "Arun Jaitley Stadium",
+    "home": "England",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 25,
+    "date": "15/10/2023 14:00",
+    "location": "Narendra Modi Stadium",
+    "home": "India",
+    "away": "Pakistan"
+  },
+  {
+    "match-no": 26,
+    "date": "15/10/2023 14:00",
+    "location": "Narendra Modi Stadium",
+    "home": "India",
+    "away": "Pakistan"
+  },
+  {
+    "match-no": 27,
+    "date": "16/10/2023 14:00",
+    "location": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "home": "Australia",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 28,
+    "date": "16/10/2023 14:00",
+    "location": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "home": "Australia",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 29,
+    "date": "17/10/2023 14:00",
+    "location": "Himachal Pradesh Cricket Association Stadium",
+    "home": "South Africa",
+    "away": "Netherlands"
+  },
+  {
+    "match-no": 30,
+    "date": "17/10/2023 14:00",
+    "location": "Himachal Pradesh Cricket Association Stadium",
+    "home": "South Africa",
+    "away": "Netherlands"
+  },
+  {
+    "match-no": 31,
+    "date": "18/10/2023 14:00",
+    "location": "MA Chidambaram Stadium",
+    "home": "New Zealand",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 32,
+    "date": "18/10/2023 14:00",
+    "location": "MA Chidambaram Stadium",
+    "home": "New Zealand",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 33,
+    "date": "19/10/2023 14:00",
+    "location": "MCA International Stadium",
+    "home": "India",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 34,
+    "date": "19/10/2023 14:00",
+    "location": "MCA International Stadium",
+    "home": "India",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 35,
+    "date": "20/10/2023 14:00",
+    "location": "M Chinnaswamy Stadium",
+    "home": "Australia",
+    "away": "Pakistan"
+  },
+  {
+    "match-no": 36,
+    "date": "20/10/2023 14:00",
+    "location": "M Chinnaswamy Stadium",
+    "home": "Australia",
+    "away": "Pakistan"
+  },
+  {
+    "match-no": 37,
+    "date": "21/10/2023 10:30",
+    "location": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "home": "Netherlands",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 38,
+    "date": "21/10/2023 10:30",
+    "location": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "home": "Netherlands",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 39,
+    "date": "21/10/2023 14:00",
+    "location": "Wankhede Stadium",
+    "home": "England",
+    "away": "South Africa"
+  },
+  {
+    "match-no": 40,
+    "date": "21/10/2023 14:00",
+    "location": "Wankhede Stadium",
+    "home": "England",
+    "away": "South Africa"
+  },
+  {
+    "match-no": 41,
+    "date": "22/10/2023 14:00",
+    "location": "Himachal Pradesh Cricket Association Stadium",
+    "home": "India",
+    "away": "New Zealand"
+  },
+  {
+    "match-no": 42,
+    "date": "22/10/2023 14:00",
+    "location": "Himachal Pradesh Cricket Association Stadium",
+    "home": "India",
+    "away": "New Zealand"
+  },
+  {
+    "match-no": 43,
+    "date": "23/10/2023 14:00",
+    "location": "MA Chidambaram Stadium",
+    "home": "Pakistan",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 44,
+    "date": "23/10/2023 14:00",
+    "location": "MA Chidambaram Stadium",
+    "home": "Pakistan",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 45,
+    "date": "24/10/2023 14:00",
+    "location": "Wankhede Stadium",
+    "home": "South Africa",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 46,
+    "date": "24/10/2023 14:00",
+    "location": "Wankhede Stadium",
+    "home": "South Africa",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 47,
+    "date": "25/10/2023 14:00",
+    "location": "Arun Jaitley Stadium",
+    "home": "Australia",
+    "away": "Netherlands"
+  },
+  {
+    "match-no": 48,
+    "date": "25/10/2023 14:00",
+    "location": "Arun Jaitley Stadium",
+    "home": "Australia",
+    "away": "Netherlands"
+  },
+  {
+    "match-no": 49,
+    "date": "26/10/2023 14:00",
+    "location": "M Chinnaswamy Stadium",
+    "home": "England",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 50,
+    "date": "26/10/2023 14:00",
+    "location": "M Chinnaswamy Stadium",
+    "home": "England",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 51,
+    "date": "27/10/2023 14:00",
+    "location": "MA Chidambaram Stadium",
+    "home": "Pakistan",
+    "away": "South Africa"
+  },
+  {
+    "match-no": 52,
+    "date": "27/10/2023 14:00",
+    "location": "MA Chidambaram Stadium",
+    "home": "Pakistan",
+    "away": "South Africa"
+  },
+  {
+    "match-no": 53,
+    "date": "28/10/2023 10:30",
+    "location": "Himachal Pradesh Cricket Association Stadium",
+    "home": "Australia",
+    "away": "New Zealand"
+  },
+  {
+    "match-no": 54,
+    "date": "28/10/2023 10:30",
+    "location": "Himachal Pradesh Cricket Association Stadium",
+    "home": "Australia",
+    "away": "New Zealand"
+  },
+  {
+    "match-no": 55,
+    "date": "28/10/2023 14:00",
+    "location": "Eden Gardens",
+    "home": "Netherlands",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 56,
+    "date": "28/10/2023 14:00",
+    "location": "Eden Gardens",
+    "home": "Netherlands",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 57,
+    "date": "29/10/2023 14:00",
+    "location": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "home": "India",
+    "away": "England"
+  },
+  {
+    "match-no": 58,
+    "date": "29/10/2023 14:00",
+    "location": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "home": "India",
+    "away": "England"
+  },
+  {
+    "match-no": 59,
+    "date": "30/10/2023 14:00",
+    "location": "MCA International Stadium",
+    "home": "Afghanistan",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 60,
+    "date": "30/10/2023 14:00",
+    "location": "MCA International Stadium",
+    "home": "Afghanistan",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 61,
+    "date": "31/10/2023 14:00",
+    "location": "Eden Gardens",
+    "home": "Pakistan",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 62,
+    "date": "31/10/2023 14:00",
+    "location": "Eden Gardens",
+    "home": "Pakistan",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 63,
+    "date": "1/11/2023 14:00",
+    "location": "MCA International Stadium",
+    "home": "New Zealand",
+    "away": "South Africa"
+  },
+  {
+    "match-no": 64,
+    "date": "1/11/2023 14:00",
+    "location": "MCA International Stadium",
+    "home": "New Zealand",
+    "away": "South Africa"
+  },
+  {
+    "match-no": 65,
+    "date": "2/11/2023 14:00",
+    "location": "Wankhede Stadium",
+    "home": "India",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 66,
+    "date": "2/11/2023 14:00",
+    "location": "Wankhede Stadium",
+    "home": "India",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 67,
+    "date": "3/11/2023 14:00",
+    "location": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "home": "Netherlands",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 68,
+    "date": "3/11/2023 14:00",
+    "location": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "home": "Netherlands",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 69,
+    "date": "4/11/2023 10:30",
+    "location": "M Chinnaswamy Stadium",
+    "home": "New Zealand",
+    "away": "Pakistan"
+  },
+  {
+    "match-no": 70,
+    "date": "4/11/2023 10:30",
+    "location": "M Chinnaswamy Stadium",
+    "home": "New Zealand",
+    "away": "Pakistan"
+  },
+  {
+    "match-no": 71,
+    "date": "4/11/2023 14:00",
+    "location": "Narendra Modi Stadium",
+    "home": "England",
+    "away": "Australia"
+  },
+  {
+    "match-no": 72,
+    "date": "4/11/2023 14:00",
+    "location": "Narendra Modi Stadium",
+    "home": "England",
+    "away": "Australia"
+  },
+  {
+    "match-no": 73,
+    "date": "5/11/2023 14:00",
+    "location": "Eden Gardens",
+    "home": "India",
+    "away": "South Africa"
+  },
+  {
+    "match-no": 74,
+    "date": "5/11/2023 14:00",
+    "location": "Eden Gardens",
+    "home": "India",
+    "away": "South Africa"
+  },
+  {
+    "match-no": 75,
+    "date": "6/11/2023 14:00",
+    "location": "Arun Jaitley Stadium",
+    "home": "Bangladesh",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 76,
+    "date": "6/11/2023 14:00",
+    "location": "Arun Jaitley Stadium",
+    "home": "Bangladesh",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 77,
+    "date": "7/11/2023 14:00",
+    "location": "Wankhede Stadium",
+    "home": "Australia",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 78,
+    "date": "7/11/2023 14:00",
+    "location": "Wankhede Stadium",
+    "home": "Australia",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 79,
+    "date": "8/11/2023 14:00",
+    "location": "MCA International Stadium",
+    "home": "England",
+    "away": "Netherlands"
+  },
+  {
+    "match-no": 80,
+    "date": "8/11/2023 14:00",
+    "location": "MCA International Stadium",
+    "home": "England",
+    "away": "Netherlands"
+  },
+  {
+    "match-no": 81,
+    "date": "9/11/2023 14:00",
+    "location": "M Chinnaswamy Stadium",
+    "home": "New Zealand",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 82,
+    "date": "9/11/2023 14:00",
+    "location": "M Chinnaswamy Stadium",
+    "home": "New Zealand",
+    "away": "Sri Lanka"
+  },
+  {
+    "match-no": 83,
+    "date": "10/11/2023 14:00",
+    "location": "Narendra Modi Stadium",
+    "home": "South Africa",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 84,
+    "date": "10/11/2023 14:00",
+    "location": "Narendra Modi Stadium",
+    "home": "South Africa",
+    "away": "Afghanistan"
+  },
+  {
+    "match-no": 85,
+    "date": "11/11/2023 14:00",
+    "location": "M Chinnaswamy Stadium",
+    "home": "India",
+    "away": "Netherlands"
+  },
+  {
+    "match-no": 86,
+    "date": "11/11/2023 14:00",
+    "location": "M Chinnaswamy Stadium",
+    "home": "India",
+    "away": "Netherlands"
+  },
+  {
+    "match-no": 87,
+    "date": "12/11/2023 10:30",
+    "location": "MCA International Stadium",
+    "home": "Australia",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 88,
+    "date": "12/11/2023 10:30",
+    "location": "MCA International Stadium",
+    "home": "Australia",
+    "away": "Bangladesh"
+  },
+  {
+    "match-no": 89,
+    "date": "12/11/2023 14:00",
+    "location": "Eden Gardens",
+    "home": "England",
+    "away": "Pakistan"
+  },
+  {
+    "match-no": 90,
+    "date": "12/11/2023 14:00",
+    "location": "Eden Gardens",
+    "home": "England",
+    "away": "Pakistan"
+  }
+]
